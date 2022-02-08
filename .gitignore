@@ -1,2 +1,7 @@
 data/
 venv/
+__pycache__/
+
+db.sqlite3
+docs/
+backend/server/server/config.json
